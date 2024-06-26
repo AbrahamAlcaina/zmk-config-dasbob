@@ -6,7 +6,7 @@ manifest:
       url-base: petejohanson:feat/pointers-move-scroll
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: mouse
       revision: main
       import: app/west.yml
   self:
