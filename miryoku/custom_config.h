@@ -6,3 +6,5 @@
 /* #define MIRYOKU_EXTRA_COLEMAKDH */
 // remap redo/undo 
 #define MIRYOKU_CLIPBOARD_WIN
+// vi mode
+#define MIRYOKU_NAV_VI
