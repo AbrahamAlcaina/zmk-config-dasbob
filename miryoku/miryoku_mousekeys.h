@@ -8,11 +8,11 @@
 #define U_BTN3 &mkp MB3
 
 
-#define U_MS_D &msc MOVE_DOWN
-#define U_MS_L &msc MOVE_LEFT
-#define U_MS_R &msc MOVE_RIGHT
-#define U_MS_U &msc MOVE_UP
-#define U_WH_D &mmv MOVE_DOWN
-#define U_WH_L &mmv MOVE_LEFT
-#define U_WH_R &mmv MOVE_RIGHT
-#define U_WH_U &mmv MOVE_UP
+#define U_MS_D &kp KP_N2
+#define U_MS_L &kp KP_N4
+#define U_MS_R &kp KP_N6
+#define U_MS_U &kp KP_N8
+#define U_WH_D U_NU
+#define U_WH_L U_NU
+#define U_WH_R U_NU
+#define U_WH_U U_NU
