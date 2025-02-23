@@ -4,7 +4,7 @@
 if SHIELD_DASBOB_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "AA-Keeb"
+	default "AA-00"
 
 config ZMK_SPLIT_ROLE_CENTRAL
 	default y
@@ -17,3 +17,6 @@ config ZMK_SPLIT
 	default y
 
 endif
+
+
+
